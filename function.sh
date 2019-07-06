@@ -1,3 +1,0 @@
-function handler () {
-  echo "Uploaded !"
-}
