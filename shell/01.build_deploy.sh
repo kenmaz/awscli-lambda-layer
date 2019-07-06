@@ -27,5 +27,5 @@ aws lambda create-function \
 aws lambda invoke \
   --invocation-type Event \
   --function-name layer-creater \
-  --region ap-northeast-1 \
+  --region us-east-1 \
   --profile ${Profile} outResult.txt
